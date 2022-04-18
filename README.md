@@ -1,4 +1,4 @@
 # gitskills
-Creating a new branch is quick and simple.
-git branch management
-modified the question
+这是一个用于学习的git版本库
+
+
